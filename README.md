@@ -2,8 +2,7 @@
 - 👀 I’m interested in blockchain, smart contracts and web3 .
 - 🌱 I’m currently learning advanced Solidity and Web3.
 - 💞️ I’m looking to collaborate on decentralized projects.
-- 📫 How to reach me [abdulaiosman8080@gmail.com]
-- 😄 Pronouns: ...
+- 😄 Pronouns: he
 - ⚡ Fun fact: I love coding by the beach!
 
 <!---
